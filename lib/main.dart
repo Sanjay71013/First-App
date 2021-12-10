@@ -12,7 +12,7 @@ void main() {
 class MyApp extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
-    return _MyAppState(); // _ represents private widget
+    return _MyAppState(); // _ hahahah represents private widget
   }
 }
 
